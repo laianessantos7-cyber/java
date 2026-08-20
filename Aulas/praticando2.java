@@ -1,4 +1,5 @@
-public class Aula02 {
+package Aulas;
+public class praticando2 {
 public static void main(String[] args) {
     String nome = "João";
     int idade = 25;

@@ -1,3 +1,4 @@
+package Aulas;
 public class Formatacao {
     public static void main(String[] args) {
         

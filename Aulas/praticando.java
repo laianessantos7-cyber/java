@@ -1,6 +1,7 @@
+package Aulas;
 // classe conjunto de atributos e metodos.
 
-public class Aula01 {
+public class praticando {
     /* método de execuão
      */
     public static void main(String[] args) {
