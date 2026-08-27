@@ -1,3 +1,4 @@
+package Aulas;
 public class Variavel {
     public static void main(String[] args) {
 
